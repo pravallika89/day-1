@@ -1,0 +1,29 @@
+/* 1 point */
+h1{
+   color: red;
+}
+
+.purple-text{
+    color: purple;
+}
+
+.green-text{
+    color: green;
+}
+/* # or id- 100 points */
+#width-300 {
+    width: 300px;
+}
+
+p{
+    border: 1px solid blue;
+}
+
+.list-item{
+    font-size: 24px;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    background-color: yellow;
+
+}
